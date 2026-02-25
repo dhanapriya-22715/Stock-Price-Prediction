@@ -13,6 +13,9 @@ Problem Statement: Build an RNN model to predict the future stock price based on
 
 Dataset: A stock market dataset containing historical daily closing prices (e.g., Google, Apple, Tesla, or NSE/BSE data). The dataset is usually divided into training and testing sets after applying normalization and sequence generation.
 
+<img width="1693" height="902" alt="image" src="https://github.com/user-attachments/assets/cd3f1018-4c04-451d-9272-159a06dcdf74" />
+
+
 ## Design Steps
 
 ### Step 1:
@@ -87,11 +90,6 @@ plt.show()
 ```
 
 ## Output
-## DATASET
-
-<img width="1693" height="902" alt="image" src="https://github.com/user-attachments/assets/cd3f1018-4c04-451d-9272-159a06dcdf74" />
-
-
 
 ### True Stock Price, Predicted Stock Price vs time
 
