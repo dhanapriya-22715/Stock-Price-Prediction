@@ -88,12 +88,10 @@ plt.show()
 
 ## Output
 ## DATASET
-### TRAIN-DATASET
+
 <img width="1693" height="902" alt="image" src="https://github.com/user-attachments/assets/cd3f1018-4c04-451d-9272-159a06dcdf74" />
 
 
-### TEST-DATASET
-<img width="1333" height="859" alt="image" src="https://github.com/user-attachments/assets/1e7ec4b3-b418-4462-9265-8a47a17a1d80" />
 
 ### True Stock Price, Predicted Stock Price vs time
 
